@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Linux Records.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Linux Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Linux Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linux/Linux Records.md"
               }
             }
           }
@@ -151,6 +151,8 @@
   },
   "active": "5acfad6f5c44e750",
   "lastOpenFiles": [
+    "Linux/attachments/Pasted image 20221121125347.png",
+    "README.md",
     "Linux/Linux Records.md",
     "Linux/Arch/Arch Records.md",
     "BSD/OpenBSD/Open-BSD Records.md"

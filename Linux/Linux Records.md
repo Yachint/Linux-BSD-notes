@@ -73,4 +73,4 @@ search .
 
 ### For Systemd-resolved
 
-![[Pasted image 20221121125347.png]]
+![[attachments/Pasted image 20221121125347.png]]
